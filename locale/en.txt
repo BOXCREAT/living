@@ -1,0 +1,13 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 15
+
+## Media
+
+### Title
+panorama_4F51200D_44E4_88E0_4181_C8343D8A3B7C.label = 360 living02
